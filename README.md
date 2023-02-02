@@ -10,4 +10,4 @@ Search applications are ubiquitous in today's digital world across various use c
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-azdcurco3xlsm)
